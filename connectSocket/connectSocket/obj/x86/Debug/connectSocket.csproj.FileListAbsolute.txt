@@ -1,0 +1,8 @@
+E:\MY SOFEWARE\c#\connectSocket\connectSocket\bin\Debug\connectSocket.exe
+E:\MY SOFEWARE\c#\connectSocket\connectSocket\bin\Debug\connectSocket.pdb
+E:\MY SOFEWARE\c#\connectSocket\connectSocket\obj\x86\Debug\connectSocket.Form1.resources
+E:\MY SOFEWARE\c#\connectSocket\connectSocket\obj\x86\Debug\connectSocket.Properties.Resources.resources
+E:\MY SOFEWARE\c#\connectSocket\connectSocket\obj\x86\Debug\connectSocket.csproj.GenerateResource.Cache
+E:\MY SOFEWARE\c#\connectSocket\connectSocket\obj\x86\Debug\connectSocket.exe
+E:\MY SOFEWARE\c#\connectSocket\connectSocket\obj\x86\Debug\connectSocket.pdb
+E:\MY SOFEWARE\c#\connectSocket\connectSocket\obj\x86\Debug\connectSocket.csprojResolveAssemblyReference.cache

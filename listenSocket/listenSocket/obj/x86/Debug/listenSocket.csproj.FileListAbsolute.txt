@@ -1,0 +1,8 @@
+E:\MY SOFEWARE\c#\listenSocket\listenSocket\bin\Debug\listenSocket.exe
+E:\MY SOFEWARE\c#\listenSocket\listenSocket\bin\Debug\listenSocket.pdb
+E:\MY SOFEWARE\c#\listenSocket\listenSocket\obj\x86\Debug\listenSocket.Form1.resources
+E:\MY SOFEWARE\c#\listenSocket\listenSocket\obj\x86\Debug\listenSocket.Properties.Resources.resources
+E:\MY SOFEWARE\c#\listenSocket\listenSocket\obj\x86\Debug\listenSocket.csproj.GenerateResource.Cache
+E:\MY SOFEWARE\c#\listenSocket\listenSocket\obj\x86\Debug\listenSocket.exe
+E:\MY SOFEWARE\c#\listenSocket\listenSocket\obj\x86\Debug\listenSocket.pdb
+E:\MY SOFEWARE\c#\listenSocket\listenSocket\obj\x86\Debug\listenSocket.csprojResolveAssemblyReference.cache
